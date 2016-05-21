@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swachh Bharat - BLR</string>
+    <string name="cleanBLR">Lets help clean Bangalore!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="complaint">Compliant</string>
+    <string name="Help">Help</string>
+    <string name="Status">Status</string>
+    <string name="Name">Enter your name</string>
+    <string name="MobileNumber">Enter your mobile number</string>
+    <string name="Address">Your Address</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="submit">Submit</string>
+    <string name="location">Enter location :</string>
+    <string name="problem">Problem Faced :</string>
+    <string name="helpMsg">Help us clear up and clean Bengaluru!</string>
+    <string name="compNum">Enter your compiant number</string>
+    <string name="compStatus">Check the status of your complaint :</string>
+
+</resources>
